@@ -40,10 +40,7 @@ Here’s a preview of the dashboard:
 
 ![Dashboard](./Assets/Call%20Centre%20Dashboard.png)  
 
-> ⚠️ Because the file name has spaces, we use `%20` in the path above.  
-> If you rename it to something like `Call-Centre-Dashboard.png`, you can use a cleaner path:  
-> ```markdown
-> ![Dashboard](./Assets/Call-Centre-Dashboard.png)
+
 > ```
 
 ---
