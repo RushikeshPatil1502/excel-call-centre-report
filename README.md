@@ -33,7 +33,8 @@ This project is an **Excel-based dashboard** analyzing call centre performance u
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](./Assets/call centre dashboard.png)
+![Dashboard](./Assets/call%20centre%20dashboard.png)
+
 
 ---
 
